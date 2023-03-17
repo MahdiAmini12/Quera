@@ -22,9 +22,9 @@
 
 ## :heavy_check_mark: سوال های حل شده
 
-ردیف | شناسه کوئرا | عنوان سوال | دسته بندی | زبان ها | تعداد روش حل | توضیحات حل سوال
+ردیف | عنوان سوال | دسته بندی | زبان ها | تعداد روش حل | توضیحات حل سوال
  --- | --- | --- | --- | --- | --- | ---
-1 | 280 | [عدد فیثاغورثی](https://b2n.ir/496654) | دانشگاهی | [Python](Solved/Adaade%20Fisaghooresi) | 1 | 
+1 | [بدیهی](https://b2n.ir/badihi) | دانشگاهی | [Python](Solved/Adaade%20Fisaghooresi) | 1 | 
 2 | 283 | [مربع توخالی](https://b2n.ir/106578) | دانشگاهی | [Python](Solved/Moraba'%20Tookhali) | 1 | 
 3 | 293 | [اعداد اول](https://b2n.ir/844713) | دانشگاهی | [Python](Solved/Adaade%20Aval) | 3 | 
 4 | 294 | [معادله درجه دو](https://b2n.ir/p13657) | دانشگاهی | [Python](Solved/Moadele%20Daraje%20Do) | 3 | 
