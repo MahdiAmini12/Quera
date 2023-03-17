@@ -24,6 +24,6 @@
 
 ردیف | عنوان سوال | دسته بندی | زبان ها | تعداد روش حل | توضیحات حل سوال
  --- | --- | --- | --- | --- | --- 
-1 | [بدیهی](https://b2n.ir/badihi) | دانشگاهی | [Python](Solved/Adaade%20Fisaghooresi) | 1 | 
-2 | 283 | [مربع توخالی](https://b2n.ir/106578) | 
-[:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
+1 | [بدیهی](https://b2n.ir/badihi-quera) | دانشگاهی | [Python](https://b2n.ir/badihi) | 1 |
+
+ [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
