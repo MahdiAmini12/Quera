@@ -17,7 +17,7 @@
 
 ردیف | عنوان  
  --- | --- 
-1 | [کالج ها](https://b2n.ir/badihi-quera) |
+1 | [کالج ها](https://b2n.ir/calej) |
 2 | [تکنولوژی](https://b2n.ir/badihi-quera) |
 3 | [مسابقه](https://b2n.ir/badihi-quera) |
 4 | [دانشگاهی](https://b2n.ir/badihi-quera) |
