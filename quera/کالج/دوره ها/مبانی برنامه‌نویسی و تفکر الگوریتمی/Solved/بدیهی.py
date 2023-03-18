@@ -1,1 +1,1 @@
-
+print('Hello Quera College!')
