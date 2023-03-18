@@ -18,10 +18,10 @@
 ردیف | عنوان  
  --- | --- 
 1 | [کالج ها](https://b2n.ir/calej) |
-2 | [تکنولوژی](https://b2n.ir/badihi-quera) |
-3 | [مسابقه](https://b2n.ir/badihi-quera) |
-4 | [دانشگاهی](https://b2n.ir/badihi-quera) |
-5 | [المپیاد](https://b2n.ir/badihi-quera) |
+2 | [تکنولوژی](https://b2n.ir/technologyslow) |
+3 | [مسابقه](https://b2n.ir/mosabegee) |
+4 | [دانشگاهی](https://b2n.ir/univvvvvvv12222) |
+5 | [المپیاد](https://b2n.ir/olampiaaaa) |
 
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
