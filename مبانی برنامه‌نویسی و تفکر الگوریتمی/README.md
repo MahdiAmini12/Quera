@@ -30,6 +30,6 @@
 4 | [جزء صحیح](https://b2n.ir/jozysahih-quera) | دانشگاهی | [Python](https://b2n.ir/jozysahih) | 1 |
 5 | [ضرب](https://b2n.ir/zarb-quera) | دانشگاهی | [Python](https://b2n.ir/zarb1) | 1 |
 6 | [الفبا](https://b2n.ir/alepha-quera) | دانشگاهی | [Python](https://b2n.ir/alepha) | 2 |
-7 | [شطرنج حرفه‌ای](https://b2n.ir/shatranj-quera) | دانشگاهی | [Python](https://b2n.ir/shatranj11) | 2 |
-
+7 | [شطرنج حرفه‌ای](https://b2n.ir/shatranj-quera) | دانشگاهی | [Python](https://b2n.ir/shatranj12) | 2 |
+ 
  [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
