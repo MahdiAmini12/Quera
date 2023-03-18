@@ -18,9 +18,9 @@
 
 ## :heavy_check_mark: سوال های حل شده
 
-ردیف | عنوان | زبان 
- --- | --- | --- 
-1 | [بدیهی](https://b2n.ir/badihi-quera) | دانشگاهی | [Python](https://b2n.ir/badihi2) | 1 |
+ردیف | عنوان  
+ --- | --- 
+1 | [کالج ها](https://b2n.ir/badihi-quera) |
 
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
