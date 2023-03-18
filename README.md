@@ -18,9 +18,9 @@
 ردیف | عنوان  
  --- | --- 
 1 | [کالج ها](https://b2n.ir/calej) |
-2 | [تکنولوژی](https://b2n.ir/technologyslow) |
+2 | [تکنولوژی](https://b2n.ir/ttteeeccchhh) |
 3 | [مسابقه](https://b2n.ir/mosabegee) |
-4 | [دانشگاهی](https://b2n.ir/univvvvvvv12222) |
+4 | [دانشگاهی](https://b2n.ir/daneshgahii) |
 5 | [المپیاد](https://b2n.ir/olampiaaaa) |
 
  
