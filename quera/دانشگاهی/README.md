@@ -24,7 +24,7 @@
 ## :heavy_check_mark: سوال های حل شده
 
 ردیف | منبع سوال | زبان 
- --- | --- | --- | --- | --- | --- 
+ --- | --- | --- 
 1 | [عدد چاپ کن](https://b2n.ir/badihi-quera) | دانشگاهی | [Python](https://b2n.ir/adadchap) | 1 |
 2 | [همه زیرمجموعه ها](https://quera.org/problemset/12912/) | دانشگاهی | [Python](https://b2n.ir/hamezirmajmuii) | 1 |
 
@@ -34,7 +34,7 @@
 ## :heavy_check_mark: سوال های حل نشده
 
 ردیف | منبع سوال | زبان 
- --- | --- | --- | --- | --- | --- 
+ --- | --- | --- 
 1 | [عدد چاپ کن](https://b2n.ir/badihi-quera) | دانشگاهی | [Python](https://b2n.ir/adadchap) | 1 |
 2 | [همه زیرمجموعه ها](https://quera.org/problemset/12912/) | دانشگاهی | [Python](https://b2n.ir/hamezirmajmuii) | 1 |
 
