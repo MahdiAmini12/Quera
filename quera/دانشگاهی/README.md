@@ -24,22 +24,9 @@
 ## :heavy_check_mark: سوال های حل شده
 
  
-ردیف | عنوان سوال | دسته بندی | زبان | تعداد روش حل | توضیحات حل سوال
+ردیف | عنوان سوال | منبع سوال | زبان | تعداد روش حل | توضیحات حل سوال
  --- | --- | --- | --- | --- | --- 
-1 | [عدد چاپ کن](https://b2n.ir/badihi-quera) | TBD | [Python](https://b2n.ir/baddddi) | 1 |
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-ردیف | منبع سوال | منبع سوال 
- --- | --- | --- 
-1 | [عدد چاپ کن](https://b2n.ir/badihi-quera) | TBD | [Python](https://b2n.ir/adadchap) | 1 |
+ 1 | [عدد چاپ کن](https://b2n.ir/badihi-quera) | TBD | [Python](https://b2n.ir/adadchap) | 1 |
  2 | [همه زیرمجموعه ها](https://quera.org/problemset/12912/) | - | [Python](https://b2n.ir/hamezirmajmuii) | 1 |
 
  
