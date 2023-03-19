@@ -24,8 +24,8 @@
 ## :heavy_check_mark: سوال های حل شده
 
 ردیف | منبع سوال | منبع سوال 
- --- | --- | --- 
-1 | [عدد چاپ کن](https://b2n.ir/badihi-quera) | پایتون | [Python](https://b2n.ir/adadchap) | 1 |
+ --- | --- | --- | ---
+1 | [عدد چاپ کن](https://b2n.ir/badihi-quera) | TBD | [Python](https://b2n.ir/adadchap) | 1 |
  2 | [همه زیرمجموعه ها](https://quera.org/problemset/12912/) | - | [Python](https://b2n.ir/hamezirmajmuii) | 1 |
 
  
