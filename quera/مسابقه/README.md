@@ -27,7 +27,7 @@
 ردیف | عنوان سوال | منبع سوال | زبان | تعداد روش حل | توضیحات حل سوال
  --- | --- | --- | --- | --- | --- 
 
-1 | [تست بینایی](https://quera.org/problemset/2659) | 	مسابقه شماره ۶ | [Python](https://b2n.ir/testbinaii) | 1 |
+ 1 | [تست بینایی](https://quera.org/problemset/2659/) | مسابقه شماره ۶ | [Python](https://b2n.ir/testbinaii) | 1 |
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
 
@@ -35,6 +35,7 @@
 
 ردیف | منبع سوال | منبع سوال 
  --- | --- | --- 
+1 | [لوزی های ستاره ای](https://b2n.ir/badihi-quera) | TBD | [Python](https://b2n.ir/adadchap) | 1 |
 
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
