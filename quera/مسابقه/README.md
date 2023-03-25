@@ -27,7 +27,7 @@
 ردیف | عنوان سوال | منبع سوال | زبان | تعداد روش حل | توضیحات حل سوال
  --- | --- | --- | --- | --- | --- 
 
- 1 | [تست بینایی](https://quera.org/problemset/2659/) | مسابقه شماره ۶ | [Python](https://b2n.ir/testbinaii) | 1 |
+ 1 | [تست بینایی](https://quera.org/problemset/2659/) | مسابقه شماره 6 | [Python](https://b2n.ir/testbinaii) | 1 |
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
 
