@@ -31,5 +31,6 @@
 5 | [ضرب](https://b2n.ir/zarb-quera) | دانشگاهی | [Python](https://b2n.ir/zarbbb) | 1 |
 6 | [الفبا](https://b2n.ir/alepha-quera) | دانشگاهی | [Python](https://b2n.ir/alphaaaa) | 2 |
 7 | [شطرنج حرفه‌ای](https://b2n.ir/shatranj-quera) | دانشگاهی | [Python](https://b2n.ir/shatttranjj) | 2 |
+8 | [جاده کشی](https://b2n.ir/jadecach) | دانشگاهی | [Python](https://b2n.ir/jadechash2) | 2 |
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
