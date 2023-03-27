@@ -37,5 +37,6 @@
 11 | [یخ](https://b2n.ir/yakh) | ساختار شرط | [Python](https://b2n.ir/ewtewtrt) | 1 |
 12 | [دو نقطه خط](https://b2n.ir/dfgsdyhs) | ساختار شرط | [Python](https://b2n.ir/retrweywy) | 2 |
 13 | [  زوجیت ](https://b2n.ir/fgsrtrgfs) | ساختار شرط | [Python](https://b2n.ir/fpajkeljkfl) | 1 |
+14 | [  صدگان خسته ](https://b2n.ir/jkljtye) | ساختار شرط | [Python](https://b2n.ir/ewfwerete) | 1 |
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
