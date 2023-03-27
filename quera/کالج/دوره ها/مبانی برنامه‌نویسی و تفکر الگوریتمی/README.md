@@ -32,7 +32,7 @@
 6 | [الفبا](https://b2n.ir/alepha-quera) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/alphaaaa) | 2 |
 7 | [شطرنج حرفه‌ای](https://b2n.ir/shatranj-quera) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/shatttranjj) | 2 |
 8 | [جاده کشی](https://b2n.ir/jadecach) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/jadechash2) | 2 |
-9 | [جاده کشی](https://b2n.ir/jdfjldsa) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/erwetwre) | 1 |
+9 | [ ساده تر](https://b2n.ir/jdfjldsa) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/erwetwre) | 1 |
 10 | [یک ساعت](https://b2n.ir/etretwert) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/efefefefe) | 1 |
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
