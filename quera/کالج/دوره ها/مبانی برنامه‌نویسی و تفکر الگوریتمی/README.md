@@ -34,5 +34,6 @@
 8 | [جاده کشی](https://b2n.ir/jadecach) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/jadechash2) | 2 |
 9 | [ ساده تر](https://b2n.ir/jdfjldsa) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/erwetwre) | 1 |
 10 | [یک ساعت](https://b2n.ir/etretwert) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/efefefefe) | 1 |
+11 | [یخ](https://b2n.ir/yakh) | ساختار شرط | [Python](https://b2n.ir/ewtewtrt) | 1 |
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
