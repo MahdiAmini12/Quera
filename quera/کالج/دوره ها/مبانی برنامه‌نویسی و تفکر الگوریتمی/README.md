@@ -29,7 +29,7 @@
 3 | [شارژ موبایل](https://b2n.ir/sharjmobile-quera) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/jarjmobele) | 1 |
 4 | [جزء صحیح](https://b2n.ir/jozysahih-quera) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/jozzzzzzzy) | 1 |
 5 | [ضرب](https://b2n.ir/zarb-quera) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/zarbbb) | 1 |
-6 | [الفبا](https://b2n.ir/alepha-quera) | دانشگاهی | [Python](https://b2n.ir/alphaaaa) | 2 |
+6 | [الفبا](https://b2n.ir/alepha-quera) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/alphaaaa) | 2 |
 7 | [شطرنج حرفه‌ای](https://b2n.ir/shatranj-quera) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/shatttranjj) | 2 |
 8 | [جاده کشی](https://b2n.ir/jadecach) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/jadechash2) | 2 |
 9 | [جاده کشی](https://b2n.ir/jdfjldsa) | متغیر و عبارات ریاضی | [Python](https://b2n.ir/erwetwre) | 1 |
