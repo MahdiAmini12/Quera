@@ -38,6 +38,5 @@
 12 | [دو نقطه خط](https://b2n.ir/dfgsdyhs) | ساختار شرط | [Python](https://b2n.ir/retrweywy) | 2 |
 13 | [  زوجیت ](https://b2n.ir/fgsrtrgfs) | ساختار شرط | [Python](https://b2n.ir/fpajkeljkfl) | 1 |
 14 | [  صدگان خسته ](https://b2n.ir/jkljtye) | ساختار شرط | [Python](https://b2n.ir/ewfwerete) | 1 |
-15 | [  بازگشت از بوستان ](yun.ir/hrsd18) | ساختار شرط | [Python](yun.ir/y98vk) | 1 |
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
