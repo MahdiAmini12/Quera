@@ -40,6 +40,6 @@
 14 | [  صدگان خسته ](https://b2n.ir/jkljtye) | ساختار شرط | [Python](https://b2n.ir/ewfwerete) | 1 |
 15 | [  بازگشت از بوستان ](https://b2n.ir/querabazgasht) | ساختار شرط | [Python](https://b2n.ir/bazgashaz) | 1 |
 16 | [  دوربین مداربسته ](https://b2n.ir/quedorbin) | ساختار شرط | [Python](https://b2n.ir/dorbin) | 1 |
-17 | [  دوربین مداربسته ](https://b2n.ir/bishineeeeh) | ساختار شرط | [Python](https://b2n.ir/fdadki) | 1 |
+17 | [  بیشینه 4 ](https://b2n.ir/bishineeeeh) | ساختار شرط | [Python](https://b2n.ir/fdadki) | 1 |
  
  [:back: بازگشت به فهرست](#mag_right-فهرست-جداول)
